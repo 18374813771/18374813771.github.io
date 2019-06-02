@@ -34,8 +34,8 @@
 **项目描述：** 
 公司内部博客系统是用于公司内部人员交流和分享的一个项目，是一个传统的web项目，主要功能是博客的编辑，全文检索信息搜索，好友系统的建立，评论等。  
 **工作内容 ：**
-根据需求设计数据库原型，再进行开发测试，项目使用SSM框架开发，前端使用freemarker，js,jquery。使用sorl完成全文检索的功能，使用redis做缓存系统，使用webSocket进行评论的实时更新。    
-**涉及技术**:spring,springmvc,mybatis,maven,redis,sorl,websocket,js,freemarker,jquery,tomcat,mysql。  
+根据需求设计数据库原型，再进行开发测试，项目使用SSM框架开发，前端使用freemarker，js,jquery。使用sorl完成全文检索的功能，使用redis做缓存系统，使用webSocket进行评论的实时更新。     
+**涉及技术**：spring,springmvc,mybatis,maven,redis,sorl,websocket,js,freemarker,jquery,tomcat,mysql。  
 
 **其他时间**：负责公司web端系统的维护，需求的临时开发。  
 参与设计公司整套系统的单点登录，鉴权，认证的一整套解决方案。
